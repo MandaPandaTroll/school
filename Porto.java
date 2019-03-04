@@ -7,11 +7,11 @@ public class Porto {
 		Scanner input = new Scanner(System.in);
 		
 		
-		//vikt
+	
 		int Bvikt, Rvikt;
-		//Pris
+		
 		int Bpris = 0, Rprismark = 0, Rprisdir = 0;
-		//valörlösa frimärken
+		
 		int Bmark;
 		int EXP, EXPtill = 0;
 		int skrym = 0, SKRYM = 18;
